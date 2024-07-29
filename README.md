@@ -1,2 +1,2 @@
-"# Implemeting-Integral-Reinforcement-Learning" 
-"# Implemeting-Integral-Reinforcement-Learning" 
+# Implemeting-Integral-Reinforcement-Learning
+> In this thesis I implemented algorithm Integral Reinforcement Learning for finding optimal control with partial unknow parameters. The policy iteration algorithm is used in combination with approximate dynamic programming to find the parameters for the optimal controller. The Bellman equation is solved in real time and the parameters converge to the optimal values ​​in a short time.
